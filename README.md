@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Aleksandr
-<img src="https://giphy.com/clips/viralhog-viral-hog-kitten-fascinated-by-the-text-its-typing-9IYh13N9jnBxVuHzKt" width="100" height="200"/>
 
 I'm an aspiring frontend developer with good taste ;)
 I've been developing for a total of 2 years, of which I spent a year learning the base on my own, and then took courses at Elbrus Bottcamp programming school, where I gained fundamental knowledge for commercial web application development.
