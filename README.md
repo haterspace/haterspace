@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Aleksandr
 
-I'm an aspiring frontend developer with good taste ;)
-I've been developing for a total of 2 years, of which I spent a year learning the base on my own, and then took courses at Elbrus Bottcamp programming school, where I gained fundamental knowledge for commercial web application development.
+I'm an aspiring fullstack developer with good taste ;)
+I have been studying web development for a total of 1 year, which I turned into self-education and offline courses at Elbrus Bootcamp programming school, where I gained fundamental knowledge to develop commercial web applications.
 
 I am currently looking for a job and an experienced team with an interesting project where I can prove myself and help to create a cool product!
 
