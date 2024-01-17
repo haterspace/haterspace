@@ -2,7 +2,7 @@
 
 I'm an aspiring fullstack developer with good taste ;)
 
-I have been studying web development for a total of 3 years, which I turned into self-education and offline courses at Elbrus Bootcamp programming school, where I gained fundamental knowledge to develop commercial web applications.
+I have been studying web development for a total of 1 year, which I turned into self-education and offline courses at Elbrus Bootcamp programming school, where I gained fundamental knowledge to develop commercial web applications.
 
 I am currently looking for a job and an experienced team with an interesting project where I can prove myself and help to create a cool product!
 
